@@ -1,2 +1,2 @@
 # WasteManagement
-Source Code And Document For Waste management System
+Source Code And Document For Waste management System.
